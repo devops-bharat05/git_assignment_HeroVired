@@ -1,6 +1,10 @@
 import math
 
+<<<<<<< Updated upstream
 # writing code for area of circle
+=======
+#code for rectangle area
+>>>>>>> Stashed changes
 class GeometryCalculator:
 
     def calculate_circle_area(self, radius):
