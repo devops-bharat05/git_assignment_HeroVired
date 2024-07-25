@@ -1,6 +1,10 @@
 import math
 
+<<<<<<< Updated upstream
 #code for rectangle area
+=======
+# writing code for area of circle
+>>>>>>> Stashed changes
 
 class GeometryCalculator:
 
